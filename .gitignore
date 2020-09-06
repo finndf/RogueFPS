@@ -13,3 +13,5 @@ Saved
 *.xcodeproj
 *.xcworkspace
 RogueFPS.uproject
+Config/DefaultEditor.ini
+Config/DefaultEngine.ini
