@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{E15DAF8F-45A9-9F6C-E149-26998047C43A}",
+	"EngineAssociation": "{C8323B2B-4E45-2F8C-FF98-61BF9058227B}",
 	"Category": "",
 	"Description": "",
 	"Enterprise": true,
@@ -40,6 +40,10 @@
 		{
 			"Name": "Text3D",
 			"Enabled": true
+		},
+		{
+			"Name": "XGEController",
+			"Enabled": false
 		}
 	]
 }
