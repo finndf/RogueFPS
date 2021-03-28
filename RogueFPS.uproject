@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.26",
+	"EngineAssociation": "{B3D9AFAD-475E-AE93-11A0-A799191437AB}",
 	"Category": "",
 	"Description": "",
 	"Enterprise": true,
@@ -53,6 +53,10 @@
 				"Win64",
 				"Linux"
 			]
+		},
+		{
+			"Name": "HoudiniEngine",
+			"Enabled": true
 		}
 	]
 }
